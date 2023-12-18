@@ -30,3 +30,4 @@
 ### Exercise 1: Setup Free trial Google Cloud Platform (GCP) Account**
 
 ### Exercise 2: Launch your own compute instance(server) on Google Cloud Platform.**
+### Exercise 2: Launch your own compute instance(server) on Google Cloud Platform.**
